@@ -4,7 +4,7 @@ We're excited to have you join us on this cybersecurity journey. :computer:
 
 ## Your First Tasks :clipboard:
 
-- **Cyberstart.com Intern Phase** :rocket:
+- **Cyberstart.com Intern Phase** :lock:
   Start by completing the intern phase on [cyberstart.com](https://cyberstart.com). This foundational step will build your cybersecurity skills.
 
 - **Master Bandit Challenges (Level 1-10)** :muscle:
