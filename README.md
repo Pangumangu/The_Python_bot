@@ -4,7 +4,7 @@ We're thrilled to have you embark on this exciting cybersecurity journey with us
 
 Get ready for an engaging experience as you tackle two sets of tasks. The first set is detailed below, and keep an eye out for the second set of tasks, which will be released on September 13th. Watch out for updates on Telegram!
 
-![image](https://github.com/Pangumangu/The_Python_bot/assets/115497026/dfc73bb6-32ca-4602-ab26-f322f5abed1d)
+![image](https://i.ibb.co/k8qvWkt/image.png)
 
 ## Getting Started and Guidelines
 
@@ -26,8 +26,12 @@ To set the tone for a successful cybersecurity journey, follow these guidelines:
 1. **Cyberstart.com Intern Phase** 🔐
    Start by completing the intern phase on [CYBERSTART](https://cyberstart.com). This foundational step will lay the groundwork for your cybersecurity skills.
    - Sign up on the platform.
-   - Go to the Groups tab.👥
    - Edit your name to your Roll number, e.g., `am.en.ivfui22645`.
+     ![image](https://i.ibb.co/WyLR3Wx/image.png)
+     
+     ![image](https://i.ibb.co/PrWrNz2/image.png)
+   - Go to the Groups tab.👥
+     ![image](https://i.ibb.co/NCW9TN8/image.png)
    - Click on Join and enter the code 'contents-monday-sense', then click Validate.
    - Make sure you checked the box and proceed.
    - Join the group.
