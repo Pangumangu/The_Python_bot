@@ -27,13 +27,15 @@ To set the tone for a successful cybersecurity journey, follow these guidelines:
    Start by completing the intern phase on [CYBERSTART](https://cyberstart.com). This foundational step will lay the groundwork for your cybersecurity skills.
    - Sign up on the platform.
    - Edit your name to your Roll number, e.g., `am.en.ivfui22645`.
-     ![image](https://i.ibb.co/WyLR3Wx/image.png)
+     ![image](https://i.ibb.co/yswnxrw/image.png)
      
      ![image](https://i.ibb.co/PrWrNz2/image.png)
    - Go to the Groups tab.👥
-     ![image](https://i.ibb.co/NCW9TN8/image.png)
-   - Click on Join and enter the code 'contents-monday-sense', then click Validate.
+     ![image](https://i.ibb.co/DYGPxRd/image.png)
+   - Click on Join and enter the code `contents-monday-sense`, then click Validate.
+     ![image](https://i.ibb.co/MsdbWXb/image.png)
    - Make sure you checked the box and proceed.
+     ![image](https://i.ibb.co/80w4qLb/image.png)
    - Join the group.
    - Begin the intern base level and complete 12 levels with a thorough write-up as mentioned above.
 
